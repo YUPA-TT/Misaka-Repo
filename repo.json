@@ -66,7 +66,7 @@
       "Releases": [
         {
           "Version": "1.0",
-          "Package": "https://raw.githubusercontent.com/YUPA-TT/Misaka-Repo/refs/heads/main/packages/com.tabemaru.UzuraFont.misaka",
+          "Package": "https://github.com/YUPA-TT/Misaka-Repo/raw/refs/heads/main/packages/com.tabemaru.SipporiMincho.misaka",
           "Description": null
         }
       ],
