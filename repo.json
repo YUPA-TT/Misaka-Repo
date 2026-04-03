@@ -1,7 +1,7 @@
 {
   "RepositoryName": "たべまる",
   "RepositoryDescription": "My Repo",
-  "RepositoryAuthor": "Tabemaru",
+  "RepositoryAuthor": "tabemaru",
   "RepositoryIcon": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/si.jpg",
   "Default": {
     "HeaderImage": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/sh.jpg",
@@ -14,10 +14,10 @@
       "MinIOSVersion": "15.0",
       "MaxIOSVersion": "26.1",
       "Author": {
-        "Label": "Tabemaru",
+        "Label": "tabemaru",
         "Links": [
           {
-            "Label": "Tabemaru",
+            "Label": "tabemaru",
             "Link": "https://twitter.com/straight_tamago"
           },
           {
