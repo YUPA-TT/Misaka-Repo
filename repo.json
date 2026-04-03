@@ -1,7 +1,7 @@
 {
-  "RepositoryName": "たべまる (Repacked)",
-  "RepositoryDescription": "misaka official repository",
-  "RepositoryAuthor": "straight-tamago",
+  "RepositoryName": "たべまる",
+  "RepositoryDescription": "My Repo",
+  "RepositoryAuthor": "Tabemaru",
   "RepositoryIcon": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/si.jpg",
   "Default": {
     "HeaderImage": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/sh.jpg",
@@ -39,19 +39,19 @@
       "PackageID": "com.jbjf.JBJFToolBox"
     },
     {
-      "Name": "フォント",
-      "Description": "HuiFont",
+      "Name": "うずらフォント",
+      "Description": "UzuraFont",
       "MinIOSVersion": "15.0",
       "MaxIOSVersion": "26.1",
       "Author": {
-        "Label": "straight-tamago",
+        "Label": "Tabemaru",
         "Links": [
           {
-            "Label": "straight-tamago",
+            "Label": "Tabemaru",
             "Link": "https://twitter.com/straight_tamago"
           },
           {
-            "Label": "HuiFont",
+            "Label": "UzuraFont",
             "Link": "https://hp.vector.co.jp/authors/VA039499/"
           }
         ]
@@ -59,21 +59,16 @@
       "Icon": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/com.straight-tamago.HuiFont/com.straight-tamago.HuiFont.jpg",
       "HeaderImage": null,
       "Category": "SpringBoard",
-      "Caption": "HuiFont",
+      "Caption": "UzuraFont",
       "Screenshot": null,
       "Releases": [
         {
           "Version": "1.0",
           "Package": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/com.straight-tamago.HuiFont/com.straight-tamago.HuiFont-v1.0.misaka",
           "Description": null
-        },
-        {
-          "Version": "1.1",
-          "Package": "https://cdn.discordapp.com/attachments/1483469491873517629/1489567132651094036/com.straight-tamago.test.misaka?ex=69d0e2ff&is=69cf917f&hm=dd865bb82c7acc5a0e89d9cd9befed9b80005f54bf9a24bda64405c56b0d1c1f&",
-          "Description": "字数が増えました"
         }
       ],
-      "PackageID": "com.straight-tamago.HuiFont"
+      "PackageID": "com.tabemaru.UzuraFont"
     },
     {
       "Name": "Disable Homebar",
