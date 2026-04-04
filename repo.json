@@ -41,8 +41,8 @@
       "PackageID": "com.tabemaru.UzuraFont"
     },
     {
-      "Name": "しっぽり明朝",
-      "Description": "SipporiMinchoFont",
+      "Name": "うつくし明朝",
+      "Description": "UtsukushiMinchoFont",
       "MinIOSVersion": "15.0",
       "MaxIOSVersion": "26.1",
       "Author": {
@@ -53,7 +53,7 @@
             "Link": "https://twitter.com/straight_tamago"
           },
           {
-            "Label": "SipporiMinchoFont",
+            "Label": "UtsukushiMinchoFont",
             "Link": "https://hp.vector.co.jp/authors/VA039499/"
           }
         ]
@@ -61,7 +61,7 @@
       "Icon": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/com.straight-tamago.HuiFont/com.straight-tamago.HuiFont.jpg",
       "HeaderImage": null,
       "Category": "SpringBoard",
-      "Caption": "ShipporiMinchoFont",
+      "Caption": "UtsukushiMinchoFont",
       "Screenshot": null,
       "Releases": [
         {
@@ -70,7 +70,7 @@
           "Description": null
         }
       ],
-      "PackageID": "com.tabemaru.SipporiMincho"
+      "PackageID": "com.tabemaru.UtsukushiMincho"
     }
   ]
 }
